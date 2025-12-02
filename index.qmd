@@ -1,11 +1,14 @@
 ---
 title: "Katie Larkin"
+image: DSCN4943.JPG
 toc: false
 about: 
   template: jolla
+  image-shape: round
+  image-width: 17em
   links:
     - text: LinkedIn
-      href: www.linkedin.com/in/katie-larkin-ms-307849220
+      href: https://www.linkedin.com/in/katie-larkin-fluvial/
     - text: GitHub
       href: https://github.com/katielovesrivers
     - text: Email
@@ -13,10 +16,6 @@ about:
 
 ---
 
-This is a Quarto website.
+Website in progress - come back later!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```

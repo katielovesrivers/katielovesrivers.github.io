@@ -3,18 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "katielovesrivers.github.io"
+  title: "Katie Larkin"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About Me
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      -solar
     css: styles.css
     toc: true
 
