@@ -1,5 +1,16 @@
 ---
-title: "katielovesrivers.github.io"
+title: "Katie Larkin"
+toc: false
+about: 
+  template: jolla
+  links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/katie-larkin-ms-307849220
+    - text: GitHub
+      href: https://github.com/katielovesrivers
+    - text: Email
+      href: mailto:katie.larkin@colostate.edu
+
 ---
 
 This is a Quarto website.
