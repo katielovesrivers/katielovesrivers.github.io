@@ -1,9 +1,52 @@
 ---
-title: "About"
+title: "About Me!"
+css: styles.css
 ---
 
-About this site
+::: {style="text-align:center;"}
+![Goofing around with my twin sister (left) at Water Holes Canyon](pics/waterholes.png)
+:::
 
-```{r}
-1 + 1
-```
+I'm originally from Lancaster, Pennsylvania, but my interest in water was cultivated in my childhood through trips to the American Southwest with my family. Exploration of canyons, riverbeds, and sand dunes were a formative introduction to the wild and wicked erosive powers of water and the incredible landforms that result. At home, I carried a mineral handbook around *religiously* and used my pocket money to start a rock collection.\
+
+::: {style="text-align:center;"}
+![Checking out the volcanic vent at Kilauea Iki at Hawaii Volcanoes National Park!]()
+:::
+
+I never considered geology as a future until my freshman year at Washington & Lee University in 2018. My premed-chem-major aspirations were very quickly extinguished, but a Planetary Geology class reignited a passion that had rested in the back of my mind since childhood. I declared geology as my major and took a class trip to Hawai'i to learn about volcanoes, igneous petrology, and geologic hazards.\
+
+::: {style="text-align:center;"}
+![Using a total station to measure channel geometry on the Maury River, VA]()
+:::
+
+It wasn’t until junior year that I was truly exposed to the wonderful world of fluvial geomorphology. Summer 2021 was spent on an advanced project through the Keck Geology Consortium, where I collected field data to research regional groundwater geochemistry (cool, but not for me) and milldam-induced legacy sediment (now we're talkin'!). I worked with a group processing data for the latter topic and tackled my own research project investigating long-term change in channel morphology and sediment dynamics following a dam removal. This personal project became my undergraduate thesis, and I graduated with Honors in Geology in Spring 2022.\
+
+::: {style="text-align:center;"}
+![A rare photo op at a jobsite in Oregon]()
+:::
+
+In Fall 2022, I started as a Virginia-based field geologist for HydroGeoLogic, an environmental consulting firm, where I gained valuable expertise in water and soil sampling, report writing, and large-scale data management. While I enjoyed the growth this position afforded me, I knew I wanted to go back to school.\
+
+::: {style="text-align:center;"}
+![Me in the field]()
+:::
+
+In Fall 2023, I started my MS in Geosciences under the guidance of Dr. Ellen Wohl at Colorado State University. I quickly fell in love with the academic community and the gorgeous mountainside setting of Fort Collins, Colorado. For my Master's research, I studied . I successfully defended in Spring 2025 - woohoo!\
+
+::: {style="text-align:center;"}
+![Blah blah blah]()
+:::
+
+Beads and flux attenuation have geomorphic and hydrologic implications at a reach scale *and* at a catchment scale. After studying reach-scale dynamics, I felt like I had another research mission...to zoom out my focus. Thus, my PhD was born!\
+
+::: {style="text-align:center;"}
+![Blah blah blah]()
+:::
+
+In Fall 2025, I started my PhD, where I am primarily researching the morphology, distribution, and modeling implications of storage reaches in mountain rivers of the Rockies and Appalachians. Now, you're all caught up!\
+
+::: {style="text-align:center;"}
+![A picture of me]()
+:::
+
+Academic journey aside, my personal journey has been equally exploratory. I ran cross country and track in middle school, high school, and college, but recently put down the sneakers and picked up a gravel bike. I found that I quite love long-distance rides (100+ miles) but being a grad student and wanting to spend hours in the saddle are not exactly compatible. I'm quite skilled in the kitchen and make a MEAN focaccia. I also find joy in thrifting and antiquing cool things, as well as making my own art (collaging mainly, but I've been getting into aluminum embossing) to decorate my space. Always true to my six-year-old self, I still collect rocks.\

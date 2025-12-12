@@ -1,4 +1,17 @@
 ---
-title: "My Research"
+title: "Research Interests"
 editor: visual
+css: styles.css
 ---
+
+<u>Headwaters Channel Systems</u>\ 
+Headwaters channels
+
+<u>Storage Dynamics in Mountain Rivers</u>\
+
+<u>Impacts of Dams</u>\
+
+**References:**\
+---
+
+------------------------------------------------------------------------
