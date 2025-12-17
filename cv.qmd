@@ -11,50 +11,50 @@ css: styles.css
 
 **MS in Geosciences** [2023 - 2025],  <small> GPA: 4.0 </small>\
 *Colorado State University, Fort Collins CO*\
-  - <small>Master's Thesis: "Determining Primary Drivers of River Bead Functionality in Mountain Headwaters Streams"</small>\
-  - <small>Activities and societies: GeoGSO Vice President ‘24-‘25, GSC Member, PROGRESS Mentor, GAAP Vice President ‘24-25</small>\
+  + <small>Master's Thesis: "Determining Primary Drivers of River Bead Functionality in Mountain Headwaters Streams"</small>\
+  + <small>Activities and societies: GeoGSO Vice President ‘24-‘25, GSC Member, PROGRESS Mentor, GAAP Vice President ‘24-25</small>\
 
 **BS in Geology (with Honors)** [2018 - 2022], <small> GPA: 3.7 </small>\
 *Washington and Lee University, Lexington VA*\
-  - <small>Honors Thesis: "The Removal of the Jordan's Point Dam: Examining Channel Restructure and Sediment Mobilization"</small>\
-  - <small>Activities and societies: Women's Varsity Cross County, Women's Varsity Track & Field, InGeneral Magazine</small>\
+  + <small>Honors Thesis: "The Removal of the Jordan's Point Dam: Examining Channel Restructure and Sediment Mobilization"</small>\
+  + <small>Activities and societies: Women's Varsity Cross County, Women's Varsity Track & Field, InGeneral Magazine</small>\
 
 **High School Diploma (with Distinguished Honors)** [2014 - 2018],  <small> GPA: 4.0 </small>\
 *J.P. McCaskey High School, Lancaster PA*\
-  - <small>Activities and societies: Varsity Cross Country, Varsity Track and Field, National Honor Society, Choir, Vidette Newspaper</small>\
+  + <small>Activities and societies: Varsity Cross Country, Varsity Track and Field, National Honor Society, Choir, Vidette Newspaper</small>\
   
 ::: {style="font-size: 1.5em;"}
 <u>***Teaching:***</u>\
 :::
 **Academic Consultant** [May 2024]\
-  - <small>Assisted in teaching Geology of Hawaii class for Washington & Lee University.</small>\
+  + <small>Assisted in teaching Geology of Hawaii class for Washington & Lee University.</small>\
 
 **Intro Geology** [Spring 2024]\
-  - <small>Managed 4 lab sections with a total of 90 students.</small>\
+  + <small>Managed 4 lab sections with a total of 90 students.</small>\
 
 **Hydrogeology** [Fall 2023]\
-  - <small>Managed 2 lab sections with a total of 13 students.</small>\
+  + <small>Managed 2 lab sections with a total of 13 students.</small>\
 
 ::: {style="font-size: 1.5em;"}
 <u>***Experience:***</u>\
 :::
-**GRA** [Spring 2024 - present]\
-  - <small>Conducting MS & PhD research as a student in the CSU Fluvial Geomorphology Lab.</small>\
+**Graduate Research Assistant** [Spring 2024 - present]\
+  + <small>Conducting MS & PhD research as a student in the CSU Fluvial Geomorphology Lab.</small>\
 
-**GTA** [Fall 2023 - Spring 2024]\
-  - <small>Led labs, graded assignments, and held office hours for Hydrogeology (Fall 2023) and Intro Geology (Spring 2024).</small>\
+**Graduate Teaching Assistant** [Fall 2023 - Spring 2024]\
+  + <small>Led labs, graded assignments, and held office hours for Hydrogeology (Fall 2023) and Intro Geology (Spring 2024).</small>\
 
 **Geologist 1** [Aug. 2022 - July 2023]\
-  - <small>Conduced extensive fieldwork and helped write reports for US Government- and privately-funded environmental remediation projects</small>\
-  - <small>Accumulated skills in sampling of water and soil, client communication, large-scale data management, and leadership</small>\
+  + <small>Conduced extensive fieldwork and helped write reports for US Government- and privately-funded environmental remediation projects</small>\
+  + <small>Accumulated skills in sampling of water and soil, client communication, large-scale data management, and leadership</small>\
 
 **Researcher** [Summer 2021]\
-  - <small>Participated in a 2021 Advanced Research Project investigating milldam-induced legacy sedimentation and geomorphic signals and responses associated with their removal.</small>\
-  - <small>Culminated in a first-author poster presented at GSA Connects 2021 and an Honors Thesis (completed in 2022).</small>\
+  + <small>Participated in a 2021 Advanced Research Project investigating milldam-induced legacy sedimentation and geomorphic signals and responses associated with their removal.</small>\
+  + <small>Culminated in a first-author poster presented at GSA Connects 2021 and an Honors Thesis (completed in 2022).</small>\
 
 **Geological Technician** [Summer 2020]\
-  - <small>Conducted field sampling of water and soil for environmental remediation projects.</small>\
-  - <small>Conducted extensive door-to-door well surveys to examine scope of contamination and communicate risk.</small>\
+  + <small>Conducted field sampling of water and soil for environmental remediation projects.</small>\
+  + <small>Conducted extensive door-to-door well surveys to examine scope of contamination and communicate risk.</small>\
 
 ::: {style="font-size: 1.5em;"}
 <u>***Honors:***</u>\
@@ -111,17 +111,19 @@ Groff, M., Holicky, M., **Larkin, K.**, Pulido, M., Wilde, K., Hinkle, M.A., and
 ::: {style="font-size: 1.5em;"}
 <u>***Professional Memberships:***</u>\
 :::
-  - AGU\
-  - GSA\
-  - AAG\
+  - AAG (since 2025)\
+  - AGU (since 2024)\
+  - GSA (since 2023)\
 
 ::: {style="font-size: 1.5em;"}
 <u>***Skills:***</u>\
 :::
-  - Git/GitHub
-  - R (coding language)
-  - ArcGIS Pro
-  - Microsoft Office 
-:::
+  - Git/GitHub\
+  - R (coding language)\
+  - ArcGIS Pro\
+  - Microsoft Office\
+  - Fieldwork\
+  - Remote Sensing Applications\
+  - Writing (academic, technical, journalistic)\
 
 ------------------------------------------------------------------------

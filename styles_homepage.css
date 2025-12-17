@@ -1,3 +1,5 @@
+
+
 /* css styles */
  body {
   background-image: url("pics/background.jpeg");
@@ -5,7 +7,5 @@
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
+  color:white;
 }
-
-/*-- scss:defaults --*/
-$link-color: white;

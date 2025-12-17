@@ -4,14 +4,39 @@ editor: visual
 css: styles.css
 ---
 
-<u>Headwaters Channel Systems</u>\ 
-Headwaters channels
+<u>**Headwaters Channel Systems**</u>\
 
-<u>Storage Dynamics in Mountain Rivers</u>\
+::: {style="text-align:center;"}
+![Headwaters channels are extremely small (Ellen for scale) but important! These ones are tributaries of Neota Creek, located in the Front Range of Colorado.](pics/headwaters.png){width=400 height=300}
+:::
 
-<u>Impacts of Dams</u>\
+Headwaters are disproportionately representative of total channel length in freshwater streams, accounting for a conservatively estimated 79% of their length in the continental United States (Colvin et al., 2019). However, they are poorly understood and widely unprotected, placing them at extreme risk of irreversible damage. All larger rivers  originate from the headwaters, and preserving the sanctity of our waterways must include even the smallest channels. I am particularly interested in the relationship between climate, hydrology, and surface channel geometry, and how disturbances (wildfires, debris flows, etc.) can alter these relationships.\
 
-**References:**\
+<u>**Storage Dynamics in Mountain Rivers**</u>\
+
+::: {style="text-align:center;"}
+![Here's what a bead looks like from the sky!](pics/bead_sky.png){width=400 height=300}
+:::
+
+Beads are wide, vegetated, and typically valley-bottom storage reaches on mountain river corridors, generally interspersed with narrower transport reaches referred to as "strings" (Stanford &. Ward, 1993). River beads typically have greater accommodation space for surface and subsurface storage of materials, are effective at attenuating downstream fluxes, provide habitat and refugia for diverse riverine organisms, and increase resilience to disturbance in downstream portions of a river network, making them disproportionately determinant of river health./
+
+The spatiotemporal connectivity that defines healthy river corridors means that we cannot reliably separate the reach from the watershed, so in order to fully characterize bead storage, we must examine it on both scales. On a reach-scale, I study geomorphic (water and sediment) and biotic (large wood and beaver modification) inputs into beads and how they contribute to the physical template that drives flux attenuation. On a catchment-scale, I examine regional controls (glacial history, lithology, drainage morphology) on bead morphology and distribution./
+
+<u>**Bridging the gap between fieldwork and remote sensing**</u>\
+
+::: {style="text-align:center;"}
+![Remote sensing could be used to estimate the volume of ponded water in this series of beaver dams on Corral Creek, CO.](pics/water.png){width=500 height=300}
+:::
+
+Fieldwork is a core facet of fluvial geomorphological research, but costs, timing, and accessibility place limitations on where it can be done. In an increasingly automated and tech-centered world, scientists enjoy the availability of computerized analytical tools and value the efficiency and accuracy they can bring to research. However, a disconnect between field findings and remote methods can compromise data quality; investigations into strengths and weaknesses of remote sensing applications can inform fixes and increase public trust in these methods.\
+
+Providing high-resolution, reliable remote data is made possible through sensitivity analyses, namely comparing remote estimates with field reality. For my PhD, I'm studying how well valley-bottom extraction methods and hydrologic routing models are able to respectively characterize the geometry and water/sediment storage implications of beads. I also am studying disparities between field and remote estimations headwaters channel/stream heads.\
+
+<u><small>References</u></small>\
+
+<small>Colvin, S. A. R., Sullivan, S. M. P., Shirey, P. D., Colvin, R. W., Winemiller, K. O., Hughes, R. M., Fausch, K. D., Infante, D. M., Olden, J. D., Bestgen, K. R., Danehy, R. J., & Eby, L. (2019). Headwater streams and wetlands are critical for sustaining fish, fisheries, and ecosystem services. Fisheries, 44(2), 73–91. https://doi.org/10.1002/fsh.10229</small>\
+
+<small>Stanford, J. A., & Ward, J. V. (1993). An ecosystem perspective of alluvial rivers: Connectivity and the hyporheic corridor. Journal of the North American Benthological Society, 12(1), 48–60. https://doi.org/10.2307/1467685</small>\
+
 ---
 
-------------------------------------------------------------------------
