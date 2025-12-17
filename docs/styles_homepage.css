@@ -12,16 +12,3 @@
 a:link, a:visited, a:hover, a:active {
   color: #FFFFFF !important;
 }
-
-circular-image {
-  border-radius: 50%;
-  /* Optional: ensure image is square if it isn't already to make a perfect circle */
-  width: 150px;
-  height: 150px;
-  /* Optional: add a border for styling */
-  border: 2px solid #ddd;
-  /* Optional: center the image if needed */
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
