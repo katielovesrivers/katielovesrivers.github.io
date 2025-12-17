@@ -20,7 +20,6 @@ format:
     respect-user-color-scheme: true
     theme:
       light: flatly
-      dark: solar
     css: styles.css
     toc: true
 
