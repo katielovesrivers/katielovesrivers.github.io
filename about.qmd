@@ -7,13 +7,13 @@ css: styles.css
 ![Goofing around with my twin sister (left) at Water Holes Canyon](pics/waterholes.png)
 :::
 
-I'm originally from Lancaster, Pennsylvania, but my interest in water was cultivated in my childhood through trips to the American Southwest with my family. Exploration of canyons, riverbeds, and sand dunes were a formative introduction to the wild and wicked erosive powers of water and the incredible landforms that result. At home, I carried a mineral handbook around *religiously* and used my pocket money to start a rock collection.\
+I'm originally from Lancaster, Pennsylvania, but my interest in water was cultivated in my childhood through trips to the American Southwest with my family. Exploring canyons, riverbeds, and sand dunes was a formative introduction to the wild and wicked erosive powers of water and the incredible landforms that result. As early as first grade, I  carried a mineral handbook around *religiously* and used my pocket money to start a rock collection.\
 
 ::: {style="text-align:center;"}
-![Checking out the volcanic vent at Kilauea Iki at Hawaii Volcanoes National Park!](pics/hawaii.png){width=300 height=400}
+![Checking out the volcanic vent at Kīlauea Iki at Hawai'i Volcanoes National Park!](pics/hawaii.png){width=300 height=400}
 :::
 
-I never considered geology as a future until my freshman year at Washington & Lee University in 2018. My premed-chem-major aspirations were very quickly extinguished, but a Planetary Geology class reignited a passion that had rested in the back of my mind since childhood. I declared geology as my major and took a class trip to Hawai'i to learn about volcanoes, igneous petrology, and geologic hazards.\
+I never considered geology as a future until my freshman year at Washington & Lee University in 2018. My premed-chem-major aspirations were very quickly extinguished due to lack of interest, but a Planetary Geology class reignited a passion that had rested in the back of my mind since childhood. I declared geology as my major and took a class trip to Hawai'i to learn about volcanoes, igneous petrology, and geologic hazards.\
 
 ::: {style="text-align:center;"}
 ![Using a total station to measure channel geometry on the Maury River, VA](pics/total_station.png){width=300 height=400}
@@ -31,13 +31,13 @@ In Fall 2022, I started as a Virginia-based field geologist for HydroGeoLogic, a
 ![In the field with my advisor Ellen (left) and labmate Shayla (right).](pics/field.png){width=400 height=300}
 :::
 
-In Fall 2023, I started my MS in Geosciences under the guidance of Dr. Ellen Wohl at Colorado State University. I quickly fell in love with the academic community and the gorgeous mountainside setting of Fort Collins, Colorado. For my Master's research, I studied wide, shallow, and lushly vegetated reaches of mountain rivers called "beads" and how geomorphic and biotic attributes contribute to their role in flux attenuation. I successfully defended in Spring 2025 - woohoo!\
+In Fall 2023, I started my MS in Geosciences under the guidance of Dr. Ellen Wohl at Colorado State University. I quickly fell in love with the academic community and the gorgeous mountainside setting of Fort Collins, Colorado. For my Master's research, I studied wide, shallow, and lushly vegetated reaches of mountain rivers called "beads" and how geomorphic and biotic attributes make them more resilient to disturbances. I successfully defended in Spring 2025 - woohoo!\
 
 ::: {style="text-align:center;"}
-![Here's what a bead looks like from the ground.](pics/bead_ground.png){width=400 height=300}
+![Here's what a bead looks like from the ground. This one is Hague Creek in Colorado!](pics/bead_ground.png){width=400 height=300}
 :::
 
-Beads and flux attenuation have geomorphic and hydrologic implications at a reach scale *and* at a catchment scale. After studying reach-scale dynamics, I felt like I had another research mission...to zoom out my focus. Thus, my PhD was born! In Fall 2025, I started my PhD, where I am primarily researching the morphology, distribution, and modeling implications of storage reaches in mountain rivers of the Rockies and Appalachians. Now, you're all caught up!\
+Beads and flux attenuation have geomorphic and hydrologic implications at a reach scale *and* at a catchment scale. After studying reach-scale dynamics, I felt like I had another research mission...to zoom out my focus. Thus, my PhD was born! In Fall 2025, I started this new phase and am primarily researching the morphology, distribution, and modeling implications of storage reaches in mountain rivers of the Rockies and Appalachians. Now, you're all caught up!\
 
 ::: {style="text-align:center;"}
 ![Enjoying a hike at Sky Pond in Rocky Mountain National Park.](pics/skypond.png){width=300 height=400}

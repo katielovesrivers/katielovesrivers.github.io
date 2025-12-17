@@ -10,7 +10,7 @@ css: styles.css
 ![Headwaters channels are extremely small (Ellen for scale) but important! These ones are tributaries of Neota Creek, located in the Front Range of Colorado.](pics/headwaters.png){width=400 height=300}
 :::
 
-Headwaters are disproportionately representative of total channel length in freshwater streams, accounting for a conservatively estimated 79% of their length in the continental United States (Colvin et al., 2019). However, they are poorly understood and widely unprotected, placing them at extreme risk of irreversible damage. All larger rivers  originate from the headwaters, and preserving the sanctity of our waterways must include even the smallest channels. I am particularly interested in the relationship between climate, hydrology, and surface channel geometry, and how disturbances (wildfires, debris flows, etc.) can alter these relationships.\
+Headwaters are disproportionately representative of total channel length in freshwater streams, accounting for a conservatively estimated 79% of their length in the continental United States (Colvin et al., 2019). However, they are poorly understood and widely unprotected, placing them at extreme risk of irreversible damage. All larger rivers originate from the headwaters, and efforts to preserve the sanctity of our waterways must include even the smallest channels. I am particularly interested in the relationship between climate, hydrology, and surface channel geometry, and how disturbances (wildfires, debris flows, etc.) can alter these relationships. There's a lot we still need to learn about headwaters channels!\
 
 <u>**Storage Dynamics in Mountain Rivers**</u>\
 
@@ -28,9 +28,9 @@ The spatiotemporal connectivity that defines healthy river corridors means that 
 ![Remote sensing could be used to estimate the volume of ponded water in this series of beaver dams on Corral Creek, CO.](pics/water.png){width=500 height=300}
 :::
 
-Fieldwork is a core facet of fluvial geomorphological research, but costs, timing, and accessibility place limitations on where it can be done. In an increasingly automated and tech-centered world, scientists enjoy the availability of computerized analytical tools and value the efficiency and accuracy they can bring to research. However, a disconnect between field findings and remote methods can compromise data quality; investigations into strengths and weaknesses of remote sensing applications can inform fixes and increase public trust in these methods.\
+Fieldwork is a core facet of fluvial geomorphology research, but costs, timing, and accessibility place limitations on where it can be done. In an increasingly automated and tech-centered world, scientists enjoy the availability of computerized analytical tools and value the efficiency and accuracy they can bring to research. However, a disconnect between field findings and remote methods can compromise data quality; investigations into strengths and weaknesses of remote sensing applications can inform fixes and increase public trust in these methods.\
 
-Providing high-resolution, reliable remote data is made possible through sensitivity analyses, namely comparing remote estimates with field reality. For my PhD, I'm studying how well valley-bottom extraction methods and hydrologic routing models are able to respectively characterize the geometry and water/sediment storage implications of beads. I also am studying disparities between field and remote estimations headwaters channel/stream heads.\
+Providing high-resolution, reliable remote data is made possible through sensitivity analyses, namely comparing remote estimates with field reality. I'm especially interested in capturing how well valley-bottom extraction tools and hydrologic routing models are able to characterize, respectively, the geometry and water/sediment storage implications of beads. I also am studying disparities between field and remote estimations headwaters channel/stream heads.\
 
 <u><small>References</u></small>\
 
