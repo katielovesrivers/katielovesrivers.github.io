@@ -18,8 +18,8 @@ website:
 format:
   html:
     respect-user-color-scheme: true
-    theme:[styles_homepage.css]
-    css: styles_homepage.css
+    theme: flatly
+    css: styles.css
     toc: true
 
 

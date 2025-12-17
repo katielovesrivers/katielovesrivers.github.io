@@ -1,4 +1,6 @@
-/* css styles */
+/*-- scss:rules --*/
+
+/* Add your existing CSS code below this line */
  body {
   background-image: url("pics/background.jpeg");
   background-size: cover;
@@ -8,7 +10,7 @@
   color:white;
 }
 
-/* Change the color of all links to white (#FFFFFF) */
+/* Change the color of all links to white */
 a:link, a:visited, a:hover, a:active {
   color: #FFFFFF !important;
 }

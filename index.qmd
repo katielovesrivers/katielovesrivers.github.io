@@ -11,11 +11,8 @@ about:
       href: https://github.com/katielovesrivers
     - text: Email
       href: mailto:katie.larkin@colostate.edu
-      
 ---
 
-**Hello! My name is Katie Larkin, and I'm obsessed with rivers...so obsessed that I've made it into a career. I'm a PhD student studying under Dr. Ellen Wohl in the CSU Fluvial Geomorphology Lab. Here, you can learn a bit more about me, what my research interests are, and what I'm busy working on.**
+**Hello! My name is Katie Larkin, and I'm obsessed with rivers...so much so that I've made it into a career. I'm a PhD student studying under Dr. Ellen Wohl in the CSU Fluvial Geomorphology Lab. Here, you can learn a bit more about me, what my research interests are, and what I'm busy working on.**
 
-![](pics/me.jpeg){width=300 height=300}
-
-
+![](pics/me.jpeg){width="300" height="300"}
