@@ -20,7 +20,7 @@ format:
     respect-user-color-scheme: true
     theme:
       light: flatly
-    css: styles.css
+    css: styles_homepage.css
     toc: true
 
 
