@@ -6,7 +6,7 @@ css: styles.css
 ::: {style="font-size: 1.5em;"}
 <u>***Education:***</u>\
 :::
-**PhD in Geosciences** [2025 - present]\
+**PhD in Geosciences** [2025 - present], <small> Current GPA: 4.0 </small>\
 *Colorado State University, Fort Collins CO*\
 
 **MS in Geosciences** [2023 - 2025],  <small> GPA: 4.0 </small>\
@@ -26,6 +26,9 @@ css: styles.css
 ::: {style="font-size: 1.5em;"}
 <u>***Teaching:***</u>\
 :::
+**Geomorphology** [Spring 2026]\
++ <small>Managing 2 lab sections with a total of 22 students.</small>\
+
 **Academic Consultant** [May 2024]\
   + <small>Assisted in teaching Geology of Hawaii class for Washington & Lee University.</small>\
 
@@ -84,6 +87,8 @@ css: styles.css
 ::: {style="font-size: 1.5em;"}
 <u>***Publications:***</u>\
 :::
+Wohl, E., **Larkin, K.**, and Triantafillou, S. Hydrogeomorphology of Headwater Streams. \[Submitted to *Earth-Science Reviews*\]
+
 Wohl, E., Triantafillou, S., Thornton-Dunwoody, A., Mertz, C., **Larkin, K.**, Keenan, W., Griffin, S., Davis, D., and Blehm, L. Strategies for Assessing Post-Wildfire Geomorphic Resilience in Semiarid Rivers. \[Submitted to *River Research & Applications*, in review\]
 
 Larkin, K. & Wohl, E. Determining Primary Drivers of River Bead Functionality in Mountain Headwaters Streams. \[Submitted to *Geomorphology*, in review\]
